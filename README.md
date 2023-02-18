@@ -1,2 +1,4 @@
 # apollo
-dev
+
+run npm run dev first
+
